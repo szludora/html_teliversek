@@ -1,0 +1,36 @@
+.blue {
+    background-color: aqua;
+    
+}
+
+th {
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+tr {
+    height: 35px;
+}
+
+td {
+    border-top: 2px rgb(30, 120, 238) solid;
+
+}
+
+.kozep {
+    width: 40%;
+}
+
+.bal {
+    width: 30%;
+}
+
+.jobb {
+    width: 30%;
+}
